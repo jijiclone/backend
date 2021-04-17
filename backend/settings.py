@@ -8,7 +8,7 @@ from datetime import timedelta
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'ho2iz@g8g%*e9qh0jnd6&ap*0)ibrbwdz2*4@4cyt8&-wm7(w2'
+SECRET_KEY = 'ENTER YOUR SECRET KEY'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -127,8 +127,8 @@ ACCOUNT_UNIQUE_EMAIL = True
 EMAIL_BACKEND = "django.core.mail.backends.smtp.EmailBackend"
 EMAIL_HOST = "smtp.gmail.com"
 EMAIL_PORT = 587
-EMAIL_HOST_USER = "pawoindustry@gmail.com"
-EMAIL_HOST_PASSWORD = "fiwxpipmzbxffzky"
+EMAIL_HOST_USER = "YOUR EMAIL ADDRESS"
+EMAIL_HOST_PASSWORD = "YOUR EMAIL PASSWORD"
 EMAIL_USE_TLS = True
 
 
