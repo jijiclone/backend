@@ -1,0 +1,4 @@
+EMAIL_HOST_USER = "pawoindustry@gmail.com"
+EMAIL_HOST_PASSWORD = "fiwxpipmzbxffzky"
+
+SECRET_KEY = 'ho2iz@g8g%*e9qh0jnd6&ap*0)ibrbwdz2*4@4cyt8&-wm7(w2'
